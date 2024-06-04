@@ -168,5 +168,13 @@ The books found here are not really categorized and can be anything, under the I
 May the strength of Ares and wisdom of Athena see you through.
 Feel free to pull request and we will discuss the X book.
 
+## OSSU
+As 42 Devs, we recognize that our current program might lack some fundamental aspects and specialized areas of Computer Science that are typically covered in renowned universities like Harvard and Cambridge.
+
+To bridge this gap, I would like to introduce you to OSSU (Open Source Society University). OSSU provides a comprehensive computer science curriculum, drawing from the best resources available online, including courses offered by top-tier universities.
+
+By following the OSSU curriculum, you'll gain a deep understanding of what a Harvard Computer Science graduate knows and be equipped with the knowledge and skills to excel in the field. You can explore OSSU and its offerings through this [link](https://github.com/ossu/computer-science).
+
+
 # Athena Club Moderators
 Maher Azzouzi - Ismail Ait Bella
